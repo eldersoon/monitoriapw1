@@ -1,0 +1,26 @@
+.nav-link, a{
+    color: white;
+    font-size: 13pt;
+}
+
+.nav-link:hover, a:hover{
+    color: rgba(255, 255, 255, 0.808);
+}
+.navbar-nav{
+    margin-left: 45px;
+}
+.btn{
+    margin: 4px;
+}
+.btn-outline-warning{
+    background-color:none;
+    border:1px solid;
+    color: white;
+    font-size: 12pt;
+}
+
+.btn-outline-warning:hover{
+    background-color:  rgb(155, 5, 201);
+    border-color:  rgb(165, 65, 196);
+    color: white;
+}
