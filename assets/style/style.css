@@ -9,6 +9,9 @@
 .navbar-nav{
     margin-left: 45px;
 }
+.active{
+    font-weight: bold;
+}
 .btn{
     margin: 4px;
 }
@@ -24,3 +27,22 @@
     border-color:  rgb(165, 65, 196);
     color: white;
 }
+
+.form{
+    position:relative;
+    top:20px;
+    padding: 20px;
+    width: 500px;
+    min-height: 500px;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 20px;
+    height:60px;
+    color: white;
+    text-align: center;
+ }
